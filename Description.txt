@@ -1,1 +1,1 @@
-This project involves the analysis of ebay postings.
+This project involves the analysis of Ebay postings.
